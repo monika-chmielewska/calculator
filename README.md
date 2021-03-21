@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-It was created while learning the casics of python programming.
+It was created while learning the basics of python programming. <br />
 The calculator can perform basic arithmetic operations ( +,-,*,/,**,%)
 
 ## Technologies
