@@ -4,7 +4,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [To-do list](#to-do-list)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -15,9 +14,6 @@ The calculator can perform basic arithmetic operations ( +,-,*,/,**,%)
 ## Technologies
 Project is created with:
 * Python 3.9.1
-
-## To-do list:
-* Create a GUI version of the calculator
 
 ## Status
 Project is: in progress
