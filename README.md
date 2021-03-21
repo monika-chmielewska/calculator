@@ -3,8 +3,8 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Technologies](#technologies)
 * [To-do list](#to-do-list)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -16,9 +16,6 @@ The calculator can perform basic arithmetic operations ( +,-,*,/,**,%)
 Project is created with:
 * Python 3.9.1
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
 ## To-do list:
 * Create a GUI version of the calculator
 
@@ -26,4 +23,4 @@ Describe how to install / setup your local environement / add link to demo versi
 Project is: in progress
 
 ## Contact
-Created by [@monika-chmielewska]
+Created by [Monika-Chmielewska]
